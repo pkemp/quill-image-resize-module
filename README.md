@@ -2,10 +2,6 @@
 
 A module for Quill rich text editor to allow images to be resized.
 
-## Fork reasons
-
-In [APOIA.se](https://apoia.se) we needed to use both [quill-image-resize-module](https://github.com/Etoile984816138/quill-image-resize-module) and [quill-delta-to-html](https://github.com/nozer/quill-delta-to-html). The image resize module used the style attribute to align elements with the alignment toolbar, but the delta to html doesn't know how to parse that unless we align the line containing the image using Quill's [Parchment](https://github.com/quilljs/parchment).
-
 ## Demo
 
 [Plunker](https://plnkr.co/edit/gq708AOrSBOWSlHcFslG?p=preview)
