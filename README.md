@@ -2,10 +2,6 @@
 
 A module for Quill rich text editor to allow images to be resized.
 
-## Demo
-
-[Plunker](https://plnkr.co/edit/gq708AOrSBOWSlHcFslG?p=preview)
-
 ## Usage
 
 ### Webpack/ES6
